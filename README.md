@@ -1,6 +1,6 @@
 - 👋 Hi, I’m a teacher
 - 👀 I’m interested in power system
-- 🌱 I’m currently learning code
+- 🌱 I’m currently working on code
 - 💞️ I’m looking to collaborate on power system
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
